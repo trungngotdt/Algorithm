@@ -1,9 +1,0 @@
-c:\users\admin\source\repos\QuickSortAlgorithm\QuickSortLib\bin\Debug\netstandard2.0\QuickSortLib.deps.json
-c:\users\admin\source\repos\QuickSortAlgorithm\QuickSortLib\bin\Debug\netstandard2.0\QuickSortLib.dll
-c:\users\admin\source\repos\QuickSortAlgorithm\QuickSortLib\bin\Debug\netstandard2.0\QuickSortLib.pdb
-c:\users\admin\source\repos\QuickSortAlgorithm\QuickSortLib\obj\Debug\netstandard2.0\QuickSortLib.csprojResolveAssemblyReference.cache
-c:\users\admin\source\repos\QuickSortAlgorithm\QuickSortLib\obj\Debug\netstandard2.0\QuickSortLib.csproj.CoreCompileInputs.cache
-c:\users\admin\source\repos\QuickSortAlgorithm\QuickSortLib\obj\Debug\netstandard2.0\QuickSortLib.AssemblyInfoInputs.cache
-c:\users\admin\source\repos\QuickSortAlgorithm\QuickSortLib\obj\Debug\netstandard2.0\QuickSortLib.AssemblyInfo.cs
-c:\users\admin\source\repos\QuickSortAlgorithm\QuickSortLib\obj\Debug\netstandard2.0\QuickSortLib.dll
-c:\users\admin\source\repos\QuickSortAlgorithm\QuickSortLib\obj\Debug\netstandard2.0\QuickSortLib.pdb
