@@ -1,0 +1,9 @@
+c:\users\admin\source\repos\SelectionSort\SelectionSort\bin\Debug\netstandard2.0\SelectionSort.deps.json
+c:\users\admin\source\repos\SelectionSort\SelectionSort\bin\Debug\netstandard2.0\SelectionSort.dll
+c:\users\admin\source\repos\SelectionSort\SelectionSort\bin\Debug\netstandard2.0\SelectionSort.pdb
+c:\users\admin\source\repos\SelectionSort\SelectionSort\obj\Debug\netstandard2.0\SelectionSort.csprojResolveAssemblyReference.cache
+c:\users\admin\source\repos\SelectionSort\SelectionSort\obj\Debug\netstandard2.0\SelectionSort.csproj.CoreCompileInputs.cache
+c:\users\admin\source\repos\SelectionSort\SelectionSort\obj\Debug\netstandard2.0\SelectionSort.AssemblyInfoInputs.cache
+c:\users\admin\source\repos\SelectionSort\SelectionSort\obj\Debug\netstandard2.0\SelectionSort.AssemblyInfo.cs
+c:\users\admin\source\repos\SelectionSort\SelectionSort\obj\Debug\netstandard2.0\SelectionSort.dll
+c:\users\admin\source\repos\SelectionSort\SelectionSort\obj\Debug\netstandard2.0\SelectionSort.pdb
