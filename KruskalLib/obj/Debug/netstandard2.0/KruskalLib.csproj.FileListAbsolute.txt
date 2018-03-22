@@ -1,9 +1,0 @@
-c:\Users\Admin\source\repos\Kruskal\KruskalLib\bin\Debug\netstandard2.0\KruskalLib.deps.json
-c:\Users\Admin\source\repos\Kruskal\KruskalLib\bin\Debug\netstandard2.0\KruskalLib.dll
-c:\Users\Admin\source\repos\Kruskal\KruskalLib\bin\Debug\netstandard2.0\KruskalLib.pdb
-c:\Users\Admin\source\repos\Kruskal\KruskalLib\obj\Debug\netstandard2.0\KruskalLib.csprojResolveAssemblyReference.cache
-c:\Users\Admin\source\repos\Kruskal\KruskalLib\obj\Debug\netstandard2.0\KruskalLib.csproj.CoreCompileInputs.cache
-c:\Users\Admin\source\repos\Kruskal\KruskalLib\obj\Debug\netstandard2.0\KruskalLib.AssemblyInfoInputs.cache
-c:\Users\Admin\source\repos\Kruskal\KruskalLib\obj\Debug\netstandard2.0\KruskalLib.AssemblyInfo.cs
-c:\Users\Admin\source\repos\Kruskal\KruskalLib\obj\Debug\netstandard2.0\KruskalLib.dll
-c:\Users\Admin\source\repos\Kruskal\KruskalLib\obj\Debug\netstandard2.0\KruskalLib.pdb
