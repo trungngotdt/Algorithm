@@ -1,0 +1,9 @@
+C:\Users\Admin\source\repos\Dijkstra\DijkstraAlgorithm\bin\Debug\netstandard2.0\DijkstraAlgorithm.deps.json
+C:\Users\Admin\source\repos\Dijkstra\DijkstraAlgorithm\bin\Debug\netstandard2.0\DijkstraAlgorithm.dll
+C:\Users\Admin\source\repos\Dijkstra\DijkstraAlgorithm\obj\Debug\netstandard2.0\DijkstraAlgorithm.csprojResolveAssemblyReference.cache
+C:\Users\Admin\source\repos\Dijkstra\DijkstraAlgorithm\obj\Debug\netstandard2.0\DijkstraAlgorithm.csproj.CoreCompileInputs.cache
+C:\Users\Admin\source\repos\Dijkstra\DijkstraAlgorithm\obj\Debug\netstandard2.0\DijkstraAlgorithm.AssemblyInfoInputs.cache
+C:\Users\Admin\source\repos\Dijkstra\DijkstraAlgorithm\obj\Debug\netstandard2.0\DijkstraAlgorithm.AssemblyInfo.cs
+C:\Users\Admin\source\repos\Dijkstra\DijkstraAlgorithm\bin\Debug\netstandard2.0\DijkstraAlgorithm.pdb
+C:\Users\Admin\source\repos\Dijkstra\DijkstraAlgorithm\obj\Debug\netstandard2.0\DijkstraAlgorithm.dll
+C:\Users\Admin\source\repos\Dijkstra\DijkstraAlgorithm\obj\Debug\netstandard2.0\DijkstraAlgorithm.pdb
