@@ -1,0 +1,9 @@
+c:\users\admin\source\repos\BubbleSort\BubbleSort\obj\Debug\netstandard2.0\BubbleSortLib.csproj.CoreCompileInputs.cache
+c:\users\admin\source\repos\BubbleSort\BubbleSort\obj\Debug\netstandard2.0\BubbleSortLib.AssemblyInfoInputs.cache
+c:\users\admin\source\repos\BubbleSort\BubbleSort\obj\Debug\netstandard2.0\BubbleSortLib.AssemblyInfo.cs
+c:\users\admin\source\repos\BubbleSort\BubbleSort\bin\Debug\netstandard2.0\BubbleSortLib.deps.json
+c:\users\admin\source\repos\BubbleSort\BubbleSort\bin\Debug\netstandard2.0\BubbleSortLib.dll
+c:\users\admin\source\repos\BubbleSort\BubbleSort\bin\Debug\netstandard2.0\BubbleSortLib.pdb
+c:\users\admin\source\repos\BubbleSort\BubbleSort\obj\Debug\netstandard2.0\BubbleSortLib.dll
+c:\users\admin\source\repos\BubbleSort\BubbleSort\obj\Debug\netstandard2.0\BubbleSortLib.pdb
+c:\users\admin\source\repos\BubbleSort\BubbleSort\obj\Debug\netstandard2.0\BubbleSortLib.csprojResolveAssemblyReference.cache
